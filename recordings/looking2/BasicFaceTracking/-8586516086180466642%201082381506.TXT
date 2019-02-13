@@ -1,0 +1,13 @@
+Face#72057594037928196
+eyeLeftColor#0#0#eyeRightColor#0#0#noseColor#0#0#mouthLeftColor#0#0#mouthRightColor#0#0
+eyeLeftInfrared#0#0#eyeRightInfrared#0#0#noseInfrared#0#0#mouthLeftInfrared#0#0#mouthRightInfrared#0#0
+Engaged#No#Happy#No#LeftEyeClosed#No#LookingAway#No#MouthMoved#No#MouthOpen#No#RightEyeClosed#No#WearingGlasses#No
+faceRotationQuaternion#0#1.586632E-08#5.0727E-43#-2.657764E+36
+BoundBoxInfraredYTop#0
+BoundBoxInfraredYBottom#0
+BoundBoxInfraredXLeft#0
+BoundBoxInfraredXRight#0
+BoundBoxColorYTop#0
+BoundBoxColorYBottom#0
+BoundBoxColorXLeft#0
+BoundBoxColorXRight#0
