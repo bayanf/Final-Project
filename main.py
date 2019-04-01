@@ -53,7 +53,7 @@ def lookcheck(scenee):
 
 
 file = open(
-            'C:\\Users\\Bayan\\Desktop\\university materials\\final project\\recordings\\mom\\Body\\-8586515569246497929%718160465426.txt',
+            'C:\\Users\\Bayan\\Desktop\\university materials\\final project\\recordings\\new-19046\\Body\\-8586515275099666467%47053768221.txt',
             'r')
 #lines = file.readlines()
 #print(lines[0])
